@@ -1,4 +1,4 @@
-app livw
+app live
 https://api-project-weather.netlify.app/
 # Getting Started with Create React App
 
